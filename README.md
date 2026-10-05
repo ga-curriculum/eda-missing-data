@@ -22,8 +22,8 @@ A summary of the main types of missing data, and different methods for handling 
 
 | Topic | About |
 | ------ | ------ |
-| [Full Lesson Deck](./01-slides/)| A walkthrough of the types of missing data and how to handle them |
-| [02 Missing Data notebook](./02-missing-data/) | A demonstration of how to handle missing data using `pandas`|
+| [Full Lesson Deck](https://github.com/ga-curriculum/eda-missing-data/blob/main/01-slides/EDA-Missing-Data.pdf){:target="_blank"}| A walkthrough of the types of missing data and how to handle them |
+| [02 Missing Data notebook](https://github.com/ga-curriculum/eda-missing-data/tree/main/02-missing-data){:target="_blank"} | A demonstration of how to handle missing data using `pandas`|
 
 ## Prerequisites
 - Write and run Python code in a Jupyter notebook.
